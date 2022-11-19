@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f0f2f5;
+    font-family:  'Roboto', sans-serif;
+}
+.container{
+    position: absolute;
+    top: 4%;
+    left: 45%;
+    font-size: 25px;
+}
+.container h1 {
+    color: #2c83f2;
+}
+
+header{
+    width: 460px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left:35%;
+    background-color: white;
+    border-radius: 8px;
+}
+
+div h3 {
+    font-size: "25px";
+    margin-top: 2%;
+}
+div hr{
+    margin-top: 5%;
+}
+
+.box input{
+    width: 40%;
+    padding: 7px;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.date p{
+    margin-top: 4%;
+    font-size: medium;
+    color: grey;
+    margin-left: 1%;
+}
+.date input{
+    width: 40%;
+    padding: 7px;
+    margin-top: 6px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.gender p{
+    margin-top: 4%;
+    font-size: medium;
+    color: grey;
+    margin-left: 1%; 
+}
+
+.gender input {
+   
+    margin-top: 6px;
+    margin-right: 0px;
+    margin-left: 5px;
+}
+
+.mate p{
+  font-size: small;
+  margin-top: 4%;
+  color: grey;
+  margin-left: 1%;
+}
+
+.link {
+    width: 30%;
+    text-align: center;
+    background-color: #36A420;
+    padding: 8px;
+    margin-right: 23px;
+    margin-left: 80px;
+    margin: 34%;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.link a{
+    text-decoration: none;
+}
+
+/* .link2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0%;
+
+}
+.link2 a{
+    text-decoration: none;
+    color: #2C83f2;
+    font-size: 13px;
+    
+} */
